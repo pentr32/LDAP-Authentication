@@ -1,0 +1,9 @@
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\bin\Release\netcoreapp2.2\LDAP_Auth.deps.json
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\bin\Release\netcoreapp2.2\LDAP_Auth.dll
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\bin\Release\netcoreapp2.2\LDAP_Auth.pdb
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\obj\Release\netcoreapp2.2\LDAP_Auth.csprojAssemblyReference.cache
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\obj\Release\netcoreapp2.2\LDAP_Auth.csproj.CoreCompileInputs.cache
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\obj\Release\netcoreapp2.2\LDAP_Auth.AssemblyInfoInputs.cache
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\obj\Release\netcoreapp2.2\LDAP_Auth.AssemblyInfo.cs
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\obj\Release\netcoreapp2.2\LDAP_Auth.dll
+C:\Users\robe1819\source\repos\LDAP_Auth\LDAP_Auth\obj\Release\netcoreapp2.2\LDAP_Auth.pdb
