@@ -11,7 +11,7 @@ namespace LDAP_Auth
         #region LDAP
         private const string Domain = "CHANGE_ME";      //example.com
         private const int Port = 636;       //The 636 port use SSL
-        private const string SearchFilter = "(&(objectClass=user)(objectClass=person)(sAMAccountName={0}))";        //Base SearchFilter !DO NOT CHANGE!
+        private const string SearchFilter = "(&(objectClass=user)(objectClass=person)(sAMAccountName={0}))";        //Base SearchFilter !!!DO NOT CHANGE!!!
         private const string BaseDC = "CHANGE_ME";      //DC=example,DC=com
         #endregion
 
@@ -26,6 +26,8 @@ namespace LDAP_Auth
         private static AppUser User { get; set; }
 
         /// <summary>
+        /// Validate user and return informations.
+        /// Valideaza user-ul si returneaza informatiile.
         /// Validere brugeren og får hans gruppe properties.
         /// </summary>
         /// <param name="username">Brugernanv</param>
@@ -65,7 +67,9 @@ namespace LDAP_Auth
         }
 
         /// <summary>
-        /// Validere brugeren i hvilke grupper er han/hende medlem af.
+        /// Checks user in which groups is member of.
+        /// Verifica user-ul in ce grupe este membru.
+        /// Tjekker brugeren i hvilke grupper er han/hende medlem af.
         /// </summary>
         /// <param name="username">Brugernavn</param>
         /// <param name="gruppe">Gruppernavn</param>
